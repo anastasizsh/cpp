@@ -11,7 +11,7 @@ int main(void) {
             max_element = *(ptr + i);
         }
     }
-    std::cout << "Максимальний елемент: " << max_element << std::endl;
+    std::cout << "Max element: " << max_element << std::endl;
 
     return 0;
 }
